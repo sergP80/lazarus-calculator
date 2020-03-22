@@ -1,0 +1,7 @@
+*.exe
+*.obj
+*.o
+*.lpu
+*.ppu
+backup
+lib
